@@ -30,6 +30,10 @@
     margin-right: 33px;
 }
 
+.header__links-list-item:last-child {
+    margin-right: 0;
+}
+
 .header__links-list-item_no-bullit {
     list-style-type: none;
 }
@@ -70,6 +74,7 @@
     padding: 165px 50px 54px 50px;
     position: relative;
     background-size: cover;
+    background-position: center;
 }
 
 .cover__title {
