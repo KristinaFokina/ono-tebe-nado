@@ -56,7 +56,7 @@
 }
 
 .address {
-
+    font-style: normal;
     line-height: 24px;
     font-weight: normal;
     max-width: 240px;
@@ -73,7 +73,6 @@
 .address__text {
     line-height: 24.3px;
     font-size: 18px;
-    font-style: normal;
 }
 
 .cover {
