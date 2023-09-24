@@ -114,11 +114,12 @@
 
 .aligned-text_center {
     text-align: center;
-    line-height: 127%;
+    line-height: 137%;
 }
 
 .aligned-text_right {
     text-align: right;
+    line-height: 106%;
 }
 
 .letter-spacing-extended {

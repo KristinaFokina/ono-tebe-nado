@@ -30,6 +30,10 @@ a {
   color: inherit;
 }
 
+a:hover {
+  cursor: pointer;
+}
+
 img {
   width: 100%;
 }
